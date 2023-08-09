@@ -3,7 +3,7 @@
 
 Bem-vindo ao Sistema Bancário Python! Este programa de simulação bancária em Python permite que você explore o mundo das finanças, criando e gerenciando contas bancárias com facilidade.
 
-## Funcionalidades Principais ✨
+## Funcionalidades Principais ✨ 
 
 ### Conta Comum 🧾💳
 
